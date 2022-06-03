@@ -1,2 +1,4 @@
 venv/
 .idea/
+launchpadlib_cache
+PAT.txt
